@@ -1,4 +1,4 @@
-# python
+# ProjectEuler
 A collection of attempts and (hopefully) solutions to the problems presented on https://projecteuler.net in various programming languages.
 
 #Finding the multiples of 3 & 5
@@ -12,4 +12,9 @@ def ProblemOne(n):
         else:
             n -= 1
     return total
+    
+def fibonacci(n):
+	total = 1
+	
+	
 		
